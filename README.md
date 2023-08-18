@@ -1,4 +1,6 @@
 # Handy_Utils
+Scripts to do certain actions in the game "AssaultCube"
+## Description
 First of all, you should have all in your autoexec.cfg. And of course, you can change the binds.
 -	In autoexec, there are some misc settings, as toggleconsole on F, demo viewing binds (arrows) or inter menu (bind with “M”). But most important is to have well associated all scripts, as I show (i.e. with execdir for folders or exec for cfg).
 -	Auto-sorry is just a modification of the old simple script to work with this version of the game. I have just changed some features and added a better menu. It will display a random sorry message at a random momment between 1 and 5 seconds. In the menu binded with “O”, you can set if you enable it, you can set the nick you want to work with (others will not auto sorry) and you can enable always.
