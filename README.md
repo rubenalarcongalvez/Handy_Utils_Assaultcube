@@ -9,21 +9,21 @@ Now the most interesting to me and done by me:
     	When a player connects to the server you are in, it will show the same.
   o	Bind “Q” to show a menu with all players and their information. 
   o	Useful commands:
-    	info CN -> It displays the information of a player of our election on console.
-    	Infoall -> It displays all players information on console.
+      info CN -> It displays the information of a player of our election on console.
+      Infoall -> It displays all players information on console.
 -	Admin tools are some scripts to make easier and faster to be admin. I’ve done it from the beginning since lack of compability between versions. And added some extra very interesting features.
   o	With letter “P”, or with every admin tools command, you can take/release admin. When you are in other nick, you will change the nick to the name you had put in admin_name, when you press again (or vote has made), you will turn back to your old nick (useful for hosts or reports to know who was it).
   o	If you perform admin tools commands with a weak reason, it will transform to a valid generic one (to make it faster to ban if needed).
   o	First of all, we need to set up the servers in which we are admin.
-    	With letter “X”, when we are in a server, we can display a menu to put the password of it and save. That way, if we add various servers, we can just take admin with the letter “P”.
+      With letter “X”, when we are in a server, we can display a menu to put the password of it and save. That way, if we add various servers, we can just take admin with the letter “P”.
       •	You can change the admin name to change when having admin, even if you are on other name (to make easier for hosts to know who was it). 
   o	admin_name = "ADMIN_NAME"
-    	With letter “U”, you can prevent trollers or ban evaders (or VPN) to appear. Just set the name with “I” and everytime you press “U”, you will make an admin ban vote to the player NAME you had set. I think it is really usefull in those cases.
+      With letter “U”, you can prevent trollers or ban evaders (or VPN) to appear. Just set the name with “I” and everytime you press “U”, you will make an admin ban vote to the player NAME you had set. I think it is really usefull in those cases.
   o	Commands
-    	/goadmin (to take admin if you have it)
-    	/akick (kick with admin)
-    	/aban (ban with admin)
-    	/abanss (aban with remember for info and screenshot)
-    	/abanname (aban by the name)
-    	/abannamess (abanname with remember for info and screenshot)
-    	/set_abanname (to fastly ban trollers) with the bind in “U”.
+    /goadmin (to take admin if you have it)
+    /akick (kick with admin)
+    /aban (ban with admin)
+    /abanss (aban with remember for info and screenshot)
+    /abanname (aban by the name)
+    /abannamess (abanname with remember for info and screenshot)
+    /set_abanname (to fastly ban trollers) with the bind in “U”.
